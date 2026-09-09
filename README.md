@@ -1,1 +1,1 @@
-# calculator_coursera_project
+# simple-interest-calculator
