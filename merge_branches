@@ -1,0 +1,2 @@
+git checkout main 2>&1 | tee merge_branches
+git merge bug-fix-typo 2>&1 | tee -a merge_branches
