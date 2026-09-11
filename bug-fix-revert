@@ -1,5 +1,18 @@
-"head": {
-  "repo": {
-    "full_name": "Ahmad/calculator_coursera_project"
-  }
+curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/YOUR_PR_NUMBER
+
+{
+  ...
+  "head": {
+    "repo": {
+      "full_name": "Ahmad/github-final-project",
+      ...
+    }
+  },
+  "base": {
+    "repo": {
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+      ...
+    }
+  },
+  ...
 }
